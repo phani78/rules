@@ -1,6 +1,0 @@
-Rule,New Rule,version,"""0.99""",,,,,,,,,
-RuleTable,,,,,,,,,,,,
-desc,in,desc,in,desc,in,desc,in,desc,in,out,out,out
-Fld1,Fld2,Fld3,Fld4,Fld5,Fld6,Fld7,Fld8,Fld9,Fld10,Fld11,Fld12,Fld13
-In,"""040""",xxx,"""300""",yyy,IN2,zzz,In3,xxx,"""09""",Y,Y,xyz1
-In,"""050""",xxx,"""300""",yyy,IN2,zzz,In3,xxx,"""09""",Y,N,xyz2
